@@ -1,3 +1,5 @@
+//Mirna Garcia 300367454
+
 const listLength = users.length;
 const limit = 10;
 const pageCount = Math.ceil(listLength / limit);
@@ -44,7 +46,6 @@ function userList() {
 
     }
 }
-
 
 function paginationButtons() {
 
